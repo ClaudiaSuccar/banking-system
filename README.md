@@ -36,3 +36,8 @@ If user would like to withdraw $999.99 out of $1000, the program will respond co
 
 3. User is asked to confirm program exit.
 ![Exiting Program](exit-program.png)
+
+#What I Learned
+- Error handling with while loops
+- Bankers rounding method
+- Changing console appearances
