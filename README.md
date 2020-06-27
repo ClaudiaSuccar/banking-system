@@ -1,5 +1,6 @@
 # Banking System
 Command-line banking system, with navigational menus and error handling.
+
 This is a .NET application. Executable file is located in the bin directory.
 
 1. Incorrect inputs are rejected until correct, including not allowing user to exceed balances.
