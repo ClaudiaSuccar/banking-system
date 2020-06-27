@@ -21,6 +21,17 @@ This is a .NET application. Executable file is located in the bin directory.
 
 2. Bankers rounding method is utilized to avoid inappropriate currency calculations.
 If user would like to withdraw $999.99 out of $1000, the program will respond correctly with $0.01 balance remaining.
+```csharp
+    static void SavingsDeposit()
+    {
+        Console.WriteLine("\nHow much would you like to deposit to savings?");
+        string depositAmount = Console.ReadLine();
+        decimal deposit = Decimal.Parse(depositAmount);
+        savings += deposit;
+        Math.Round(savings, 2, MidpointRounding.ToEven); //The bankers rounding method
+        SavingsAccount();
+    }
+```
 ![Bankers Rounding Method](bankers-rounding.png)
 
 3. User is asked to confirm program exit.
