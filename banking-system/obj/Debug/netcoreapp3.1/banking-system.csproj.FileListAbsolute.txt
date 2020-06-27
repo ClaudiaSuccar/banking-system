@@ -1,0 +1,13 @@
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\bin\Debug\netcoreapp3.1\banking-system.exe
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\bin\Debug\netcoreapp3.1\banking-system.deps.json
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\bin\Debug\netcoreapp3.1\banking-system.runtimeconfig.json
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\bin\Debug\netcoreapp3.1\banking-system.runtimeconfig.dev.json
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\bin\Debug\netcoreapp3.1\banking-system.dll
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\bin\Debug\netcoreapp3.1\banking-system.pdb
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\obj\Debug\netcoreapp3.1\banking-system.csprojAssemblyReference.cache
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\obj\Debug\netcoreapp3.1\banking-system.AssemblyInfoInputs.cache
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\obj\Debug\netcoreapp3.1\banking-system.AssemblyInfo.cs
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\obj\Debug\netcoreapp3.1\banking-system.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\obj\Debug\netcoreapp3.1\banking-system.dll
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\obj\Debug\netcoreapp3.1\banking-system.pdb
+C:\Users\Claudia\Code\banking-system\banking-system\banking-system\obj\Debug\netcoreapp3.1\banking-system.genruntimeconfig.cache
