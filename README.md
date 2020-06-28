@@ -1,5 +1,5 @@
 # Banking System
-Command-line banking system, with navigational menus and error handling.
+Command-line bank account, with navigational menus and error handling.
 
 This is a .NET application. Executable file is located in the bin directory.
 
